@@ -6,10 +6,9 @@ import Headers from "./jumbotron.jsx";
 
 
 
-
 //create your first component
 const Home = () => {
-	
+
 	return (
 
 		<div>
